@@ -1,0 +1,3 @@
+$ git clone https://Irakoze-A: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@github.com/Irakoze-A/test-develhope.git
+
+$ git clone https://Irakoze-A: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@github.com/andreicioaca/northwind.db.git
