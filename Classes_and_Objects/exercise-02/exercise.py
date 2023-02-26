@@ -9,4 +9,10 @@ class Animal:
 
     def count_legs(self):
         print(f"It has {self.number_of_legs}")
+        
+    def nb_of_legs(self):
+        return self.number_of_legs
+    
+a = Animal(4)
+print(f'a animal has {a.number_of_legs} legs')
 
